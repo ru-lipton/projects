@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "gnornemod:block/kostya_block_texture"
+  }
+}
